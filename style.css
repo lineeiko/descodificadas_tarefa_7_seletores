@@ -1,5 +1,4 @@
   div {
-
     display: inline-block;
     border: 1px solid white;
     width: 200px;
@@ -11,20 +10,26 @@
   }
 
   .azul {
-    background-color: blue;
+    background-color: rgb(0, 204, 255);
   }
 
   .verde {
-    background-color: rgb(20, 188, 20);
+    background-color: rgb(64, 151, 64);
   }
 
   .amarela {
     background-color: yellow;
   }
 
-  #supdireita {
-    border:2px solid black;
+  #borderBlack {
+    border:1px solid black;
   }
-  .borda {
-    border:2px solid black;
+  
+  section {
+    display: flex;
+    justify-content: center;
+  }
+
+  h1 {
+    text-align: center;
   }
