@@ -1,8 +1,8 @@
-# Tarefa 8 do Descodificadas sobre Seletores 
+# Tarefa 7 do Descodificadas sobre Seletores 
 
 ![preview](./.github/preview.png)
 
-> Tarefa 8 sobre seletores
+> Tarefa 7 sobre seletores
 
 Projeto contendo quadrados coloridos.
 Cada quadrado é uma div, chegando no resultado apresentado, usando classes e ids.
